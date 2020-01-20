@@ -3,7 +3,7 @@ package jar;
 import java.util.Scanner;
 
 
-public class DisplayCalendar {
+public class DisplayCalendar2020 {
 
     public static void main(String[] args) {
         int Y = 2019;    // year
