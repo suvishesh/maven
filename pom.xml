@@ -31,10 +31,9 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>nagios-snapshots</name>
-        <url>http://35.193.253.94:8081/artifactory/libs-snapshot</url>
+        <url>http://34.66.161.243:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
-
 
 
 
